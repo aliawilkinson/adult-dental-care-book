@@ -203,6 +203,9 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Codex local brainstorming companion artifacts
+.superpowers/
+
 # Ruff stuff:
 .ruff_cache/
 
