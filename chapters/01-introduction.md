@@ -1,0 +1,17 @@
+# Introduction: Why This Book Exists
+
+Most adults never learn how teeth actually work. We inherit a few slogans, then try to apply them to adult conditions they were never designed to handle. Brush after meals. Floss once a day. See the dentist every six months. Those are not useless ideas. They are incomplete, and sometimes the missing detail is the whole point.
+
+The adult version begins with a simple shift: prevention is not a vibe. It is engineering. Plaque has to be disrupted. Acid exposure has to be managed. Saliva has to be protected. Minerals need time and contact. Gums need to stay calm. Bite forces need to be controlled. Problems need to be found while they are still small enough to give you options.
+
+Repair is different. Repair is what happens after the tooth, gum, nerve, or bone has crossed a line. A filling can replace missing tooth structure, but it is not the same as never losing that structure. A crown can protect a weakened tooth, but it requires removing more tooth. An implant can replace a missing tooth, but it does not make tooth loss trivial. Dentistry can do remarkable things. It is still better when you need less of it.
+
+That is the financial return on prevention. The cheapest cavity is the one that never becomes a cavity. The easiest crown is the one you never need. The most comfortable emergency appointment is the one you avoided by not waiting six months on a symptom that deserved attention. This book will not pretend everyone has equal access, perfect insurance, or unlimited money for the premium version of every tool. It will, however, be honest about the fact that small daily habits often decide whether future dental spending is maintenance or reconstruction.
+
+A good smile is not shallow. Teeth affect comfort, chewing, speech, confidence, attractiveness, and how willing we are to show up in photographs and close conversations. Oral health is also connected to the rest of the body through inflammation, infection risk, nutrition, medications, pregnancy, menopause, diabetes, dry mouth, and aging. The mouth is not a separate rental unit. It is part of you.
+
+Use this book in layers. Part I explains the mouth so the routine makes sense. Part II turns that biology into daily maintenance. Part III covers the problems adults are trying to prevent: gum disease, cavities, grinding, and bite damage. Part IV handles cosmetic dentistry from a health-first position. Part V helps you navigate the dentist without becoming paranoid or passive. Part VI looks at decades, costs, and life changes. Part VII gives you quick references for the bathroom mirror version of the plan.
+
+The tone of this book is intentionally practical. I am not here to scold you about coffee, wine, smoking, vaping, sugar, dental anxiety, delayed care, cosmetic goals, or wanting prettier teeth. Adults already know when they are being lectured, and lectures have a poor conversion rate. The better question is: what does this habit do, what can reduce the damage, what would quitting change, and when does a symptom stop being a home-care issue?
+
+There will be source notes and unresolved evidence markers where the science needs verification or is more complicated than product marketing suggests. That is not a weakness. It is how serious health writing should behave. Unsupported certainty is cheap. Teeth are not.

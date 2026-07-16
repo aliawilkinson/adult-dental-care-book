@@ -37,7 +37,7 @@ This file is a seed. A full drafting task should expand it before writing chapte
 - Chapter 4 and Chapter 6: nHA happy-path routine vs. fluoride/nHA evidence.
 - Chapter 6 and Chapter 9: remineralization vs. cavity progression.
 - Chapter 11 and Chapter 13: cosmetic sequencing.
-- Chapter 15 and Chapter 18: visits, insurance, and costs.
+- Chapter 14 and Chapter 17: visits, insurance, and costs.
 
 ## Terminology To Keep Consistent
 

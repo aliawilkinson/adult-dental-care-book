@@ -4,6 +4,33 @@ All notable changes to this project will be documented in this file.
 
 This project uses Semantic Versioning for repository and manuscript workflow milestones.
 
+## [0.1.4] - 2026-07-16
+
+### Added
+
+- Added `tasks/how-to-run-overnight-book-workflow.md`, a practical runbook for producing a real Draft 1 rather than another scaffold.
+- Added completion gates based on outline coverage, chapter usefulness, word-count guardrails, source flags, and final-summary honesty.
+
+### Changed
+
+- Updated the paginated workflow to point to the overnight runbook first and to treat pagination as the fallback for thin sections.
+- Updated README task references and current version.
+
+### Notes
+
+- This release clarifies that short is acceptable when complete, but scaffold-level generic prose is not acceptable as Draft 1.
+
+## [0.1.3] - 2026-07-16
+
+### Added
+
+- Added a paginated Draft 1 cloud workflow for expanding the manuscript in bounded chapter groups.
+- Added separate prompts for foundation, prevention/cosmetic, dentist/long-term/reference, and integration/review passes.
+
+### Changed
+
+- Clarified the recommended Draft 1 strategy: use multiple branch-preserving cloud tasks instead of one oversized full-book expansion run.
+
 ## [0.1.2] - 2026-07-16
 
 ### Added

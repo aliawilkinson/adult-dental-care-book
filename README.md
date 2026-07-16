@@ -6,7 +6,7 @@ I realized I knew nothing about adult dental care but wanted perfect teeth, and 
 
 This repository treats the book like a software project: durable instructions, source tracking, chapter files, review reports, and a final assembled manuscript.
 
-Current version: `0.1.2`
+Current version: `0.1.4`
 
 ## Repository Map
 
@@ -25,7 +25,9 @@ Current version: `0.1.2`
 - `reviews/`: progress, source needs, editorial reports, and author decisions.
 - `book/full-manuscript.md`: assembled manuscript.
 - `releases/`: release notes by version.
-- `tasks/overnight-codex-cloud-task.md`: prompt for a long-running Codex cloud drafting task.
+- `tasks/how-to-run-overnight-book-workflow.md`: current runbook for getting from scaffold to actual Draft 1 without padding.
+- `tasks/overnight-codex-cloud-task.md`: original prompt for a long-running Codex cloud drafting task.
+- `tasks/draft-1-paginated-workflow.md`: fallback paginated workflow for sections that remain thin.
 
 ## Working Rule
 

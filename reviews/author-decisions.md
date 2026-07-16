@@ -16,3 +16,9 @@ Use this file for questions or judgment calls that should not block drafting.
 - Whether to mention specific brands in the main book, appendix only, or not at all.
 - Whether the whitening protocol should be framed as the author's protocol, a common dentist-supervised protocol, or both.
 - How much dental tourism guidance belongs in the main cosmetic chapter versus an appendix.
+
+## Added Decision From PSA Integration
+
+- Brand examples from the PSA, such as Oral-B, Glide, Nudge, and Uncle Harry's, were not added as direct endorsements in the main prose. The current manuscript uses category-first language and notes that brand placement should be decided later, preferably in an appendix or product guide.
+- The phrase "PSA: You Were Probably Taught Wrong About Your Teeth" was not added as a competing title. Its argument was folded into the introduction and routine chapters under the approved book title.
+
