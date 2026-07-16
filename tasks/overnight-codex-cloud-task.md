@@ -2,6 +2,34 @@
 
 Paste this task into a Codex cloud task connected to this repository.
 
+## Launch Setup
+
+Start from `main`, but make all Draft 1 manuscript changes on:
+
+```text
+codex/overnight-draft-1
+```
+
+Do not work directly on `main`. Enable internet access in the Codex cloud environment before starting, because this task requires international research and primary-source verification.
+
+## Priority For This Run
+
+Produce a complete, readable Draft 1 across every outlined chapter.
+
+Keep chapters practical, reader-focused, happy-path, and proportionate in length. Prioritize full-book coverage over exhaustive research documentation.
+
+Research consequential claims using international primary sources, systematic reviews, WHO or comparable international datasets, and national guidance from countries with strong outcomes on the relevant dental-health metric. Do not default to United States guidance.
+
+Cite and verify consequential claims, but do not allow research matrices or background notes to consume the entire run. Draft every chapter first. Where verification cannot be completed reliably, preserve the substantive passage only if it can be responsibly qualified, and add a precise `[SOURCE NEEDED: ...]` or `[PRIMARY SOURCE VERIFICATION REQUIRED]` marker.
+
+The fluoride and nano-hydroxyapatite material must distinguish remineralization, sensitivity reduction, caries prevention, noninferiority, superiority, concentration, formulation, and study type.
+
+Do not invent citations. Do not silently fill evidence gaps. Do not shorten, collapse, or replace the approved outline merely to finish faster.
+
+Before completing the task, assemble all chapters into `book/full-manuscript.md` and report honestly which sections are strong, usable, skeletal, or unresolved.
+
+---
+
 Build a complete, researched first-draft manuscript for **The Adult Teeth Guide: How to Keep Your Teeth Healthy for Life** from the materials in this repository.
 
 You are acting as:

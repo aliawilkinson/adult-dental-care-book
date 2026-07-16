@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 This project uses Semantic Versioning for repository and manuscript workflow milestones.
 
+## [0.1.2] - 2026-07-16
+
+### Added
+
+- Added the final overnight Draft 1 priority instruction directly to the Codex cloud task prompt.
+- Added explicit guidance to run the overnight manuscript work on `codex/overnight-draft-1` instead of `main`.
+
+### Changed
+
+- Clarified that Draft 1 should prioritize full-book coverage, practical happy-path chapters, verified citations, and honest source flags over exhaustive research matrices.
+
 ## [0.1.1] - 2026-07-16
 
 ### Added
