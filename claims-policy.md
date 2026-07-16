@@ -51,10 +51,16 @@ Prefer, in this order:
 ## Citation Rules
 
 - Never fabricate citations, quotation text, statistics, DOIs, organizations, or guideline statements.
+- Cite consequential factual, scientific, medical, historical, regulatory, product, and safety claims.
+- Source the fluoride/nHA chapter especially carefully, including mechanisms, toothpaste history, water fluoridation, risk claims, regulatory differences, and comparative evidence.
 - If a claim needs support and no reliable support has been found, write `[SOURCE NEEDED: precise claim]`.
 - If the original source cannot be retrieved, write `[PRIMARY SOURCE VERIFICATION REQUIRED]`.
 - If a recommendation depends on jurisdiction, product formulation, age, pregnancy, medical condition, or existing dental work, say so.
 - If a claim is based on the author's routine or preference, label it as such.
+
+## Reader-Facing Citation Balance
+
+Keep citations honest but not oppressive. The manuscript should be readable first. Put detailed evidence trails in `research/evidence-ledger.md`, `research/claim-map.md`, and chapter source notes.
 
 ## Institutional Bias Checks
 

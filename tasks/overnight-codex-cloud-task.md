@@ -166,6 +166,10 @@ For every chapter:
 11. revise for voice, accuracy, and redundancy
 12. update `reviews/progress.md`
 
+Keep chapters happy-path and not too long. Start with the useful recommendation and why it works. Put alternatives, edge cases, and debates after the main path, and move deeper comparisons into dedicated chapters instead of clogging the daily routine.
+
+For the fluoride/nHA chapter, answer the author's actual curiosity: what fluoride is, why it is in toothpaste, how it works, why water fluoridation became controversial, how nHA compares mechanistically and clinically, and whether nHA raises the same kinds of risks. Cite this chapter carefully.
+
 Write the actual book. Do not stop after research or planning.
 
 Optimize for completing every chapter rather than perfecting only the opening chapters.

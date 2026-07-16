@@ -6,7 +6,7 @@ I realized I knew nothing about adult dental care but wanted perfect teeth, and 
 
 This repository treats the book like a software project: durable instructions, source tracking, chapter files, review reports, and a final assembled manuscript.
 
-Current version: `0.1.0`
+Current version: `0.1.1`
 
 ## Repository Map
 

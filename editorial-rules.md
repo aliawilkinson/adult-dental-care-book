@@ -13,6 +13,9 @@ Do not shame the reader for delayed care, cosmetic goals, smoking, vaping, sugar
 ## Style Rules
 
 - Use plain, precise prose.
+- Keep the book useful and not too long.
+- Lead with the happy path before nuance: optimal routine, why it works, how to follow it.
+- Keep routine chapters clean. Mention alternatives briefly, then move deeper comparisons to explanatory chapters.
 - Prefer mechanisms over commandments.
 - Keep medical disclaimers brief and useful.
 - Explain risks without fearmongering.
@@ -25,6 +28,20 @@ Do not shame the reader for delayed care, cosmetic goals, smoking, vaping, sugar
 - Avoid motivational-poster energy.
 - Avoid contrived case studies and fake patient stories.
 - Do not use em dashes.
+
+## Length and Depth
+
+The book should answer adult dental-care questions clearly without becoming a dental-school survey.
+
+Default chapter shape:
+
+1. What to do.
+2. Why it works.
+3. What can go wrong.
+4. Small note on alternatives or exceptions.
+5. When to ask a dentist.
+
+If a topic starts expanding beyond that shape, split it into a dedicated chapter or appendix rather than stuffing it into the daily routine.
 
 ## Recurring Framing
 
@@ -45,6 +62,8 @@ The reader should also understand four protective moves:
 ## Product and Routine Framing
 
 The daily routine can present the author's preferred happy path, including copper tongue scraper and nHA products. The book must still represent the evidence fairly and avoid pretending that preference is the same thing as settled superiority.
+
+The routine itself should remain simple and nHA-forward. Fluoride, nHA, water fluoridation, safety questions, and international differences should be explained in the dedicated fluoride/nHA chapter.
 
 When discussing products:
 

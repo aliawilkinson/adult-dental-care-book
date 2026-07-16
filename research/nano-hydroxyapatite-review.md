@@ -4,6 +4,10 @@ Nano-hydroxyapatite must receive a serious international evidence review before 
 
 ## Required Coverage
 
+- what fluoride is and how it works in toothpaste
+- how fluoride and nHA mechanisms differ
+- water fluoridation history, benefits, controversy, and risk claims
+- whether concerns about fluoride plausibly map onto nHA, and where they do not
 - Japanese research and usage history
 - European research
 - randomized clinical trials

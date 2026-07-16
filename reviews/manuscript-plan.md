@@ -6,7 +6,7 @@ This file is a seed. A full drafting task should expand it before writing chapte
 
 1. Foreword and introduction establish why adult dental care needs a better manual.
 2. Part I explains mouth anatomy, remineralization, pH, plaque, acid, wear, and delayed treatment.
-3. Part II turns that science into daily maintenance.
+3. Part II turns that science into daily maintenance, tools, fluoride/nHA explanation, and nutrition.
 4. Part III covers prevention categories: gums, cavities, grinding, and bite.
 5. Part IV covers cosmetic dentistry from a maintenance-first perspective.
 6. Part V explains dentists, visits, red flags, and emergencies.
@@ -18,6 +18,8 @@ This file is a seed. A full drafting task should expand it before writing chapte
 - Tooth anatomy and repairability.
 - Saliva, pH, demineralization, remineralization.
 - Fluoride and nano-hydroxyapatite evidence.
+- Fluoride mechanism, toothpaste use, water fluoridation history, controversy, and risk claims.
+- Nano-hydroxyapatite mechanism and whether its risks are comparable to fluoride risks.
 - Brushing timing after acid.
 - Interdental cleaning evidence.
 - Gum disease progression and escalation.
@@ -32,8 +34,10 @@ This file is a seed. A full drafting task should expand it before writing chapte
 
 - Chapter 2 and Chapter 4: remineralization.
 - Chapter 4 and Chapter 5: tools vs. routine.
-- Chapter 10 and Chapter 12: cosmetic sequencing.
-- Chapter 14 and Chapter 17: visits, insurance, and costs.
+- Chapter 4 and Chapter 6: nHA happy-path routine vs. fluoride/nHA evidence.
+- Chapter 6 and Chapter 9: remineralization vs. cavity progression.
+- Chapter 11 and Chapter 13: cosmetic sequencing.
+- Chapter 15 and Chapter 18: visits, insurance, and costs.
 
 ## Terminology To Keep Consistent
 

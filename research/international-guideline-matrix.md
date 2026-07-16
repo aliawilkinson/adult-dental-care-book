@@ -17,6 +17,7 @@ Compare guidance from multiple jurisdictions for consequential recommendations i
 - interdental brushes
 - water flossers
 - fluoride toothpaste
+- water fluoridation
 - nano-hydroxyapatite toothpaste
 - toothpaste concentration
 - rinsing after brushing

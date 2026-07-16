@@ -44,12 +44,16 @@ Do not impersonate a dentist treating an individual patient. Write as a rigorous
 13. Keep disclaimers brief and useful. Do not bury the book in defensive medical boilerplate.
 14. Do not treat United States dental guidance, American insurance conventions, or American product availability as the universal default.
 15. Compare international evidence, guidelines, population outcomes, and clinical practices, prioritizing high-quality evidence and countries that demonstrably perform well on the relevant outcome.
+16. Cite consequential factual, scientific, medical, historical, regulatory, product, and safety claims. Keep citations clean and unobtrusive, but do not leave important claims unsupported.
 
 ## Writing Requirements
 
 - Use descriptive section headings.
 - Prefer flowing explanatory prose over endless bullet lists.
 - Use lists only when they materially improve comprehension.
+- Keep chapters focused and reasonably short. This is a practical adult dental-care guide, not an encyclopedia.
+- Lead with the happy path: the optimal routine, why it works, and how to do it. Put caveats, alternatives, and edge cases after the main recommendation.
+- Include only small notes about alternatives inside routine chapters. If an alternative needs real explanation, move it to the relevant explanatory chapter instead of bogging down the routine.
 - Explain the "why" behind recommendations.
 - Define technical terms in plain English at first use.
 - Use concrete examples where they improve understanding.
@@ -65,6 +69,12 @@ Do not impersonate a dentist treating an individual patient. Write as a rigorous
 - Do not present all dentists as interchangeable or all dental recommendations as equally well supported.
 - Do not frame patient questioning as difficult behavior.
 - Do not speak down to the reader.
+
+## Citation Style
+
+Use citations where they help the reader trust and verify the work, especially for claims about mechanisms, risks, international guidance, clinical outcomes, product ingredients, and public-health controversies.
+
+Do not turn the prose into a citation dump. Prefer concise inline citations, footnotes, or chapter source notes. The reader-facing chapter should stay readable; the research files should hold the heavier evidence trail.
 
 ## Chapter Workflow
 

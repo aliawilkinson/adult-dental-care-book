@@ -78,7 +78,23 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Brush heads.
 - For each: what it does, mechanism, why it matters, common mistakes, replacement schedule, product notes, HSA/FSA considerations where applicable.
 
-## Chapter 6: Dental Nutrition
+## Chapter 6: Fluoride, nHA, and Remineralization
+
+- What fluoride is.
+- Why fluoride is in toothpaste.
+- How fluoride helps teeth resist decay.
+- What water fluoridation is and why it became controversial.
+- What the strongest evidence says about fluoride benefits and risks.
+- How fluoride toothpaste differs from fluoridated water.
+- What nano-hydroxyapatite is.
+- How nHA is supposed to work.
+- How nHA compares with fluoride by outcome: remineralization, caries prevention, sensitivity, white-spot lesions, safety.
+- Whether nHA has the same concerns people raise about fluoride, and where those comparisons are fair or unfair.
+- International differences in fluoride, nHA, water fluoridation, product regulation, and professional guidance.
+- Happy-path conclusion: what the author uses and why, with honest notes on alternatives.
+- Required source files: `research/nano-hydroxyapatite-review.md`, `research/evidence-ledger.md`, `research/international-guideline-matrix.md`.
+
+## Chapter 7: Dental Nutrition
 
 - Core rule: pH and acid exposure frequency matter more than total amount.
 - Sugar frequency.
@@ -94,7 +110,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part III: Prevention
 
-## Chapter 7: Gum Health
+## Chapter 8: Gum Health
 
 - Healthy gums and what normal looks like.
 - Gingivitis.
@@ -103,7 +119,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Bleeding.
 - Recession.
 
-## Chapter 8: Cavities
+## Chapter 9: Cavities
 
 - How cavities start.
 - Early decay.
@@ -111,7 +127,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Fillings.
 - When decay becomes irreversible.
 
-## Chapter 9: Grinding and Bite
+## Chapter 10: Grinding and Bite
 
 - Bruxism.
 - TMJ.
@@ -124,7 +140,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part IV: Cosmetic Dentistry
 
-## Chapter 10: Whitening
+## Chapter 11: Whitening
 
 - How whitening works.
 - Carbamide peroxide 10% tray protocol: 7 nights on, then 1x/week maintenance.
@@ -133,14 +149,14 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Maintenance.
 - What will not whiten: existing restorations and certain stain types.
 
-## Chapter 11: Straight Teeth
+## Chapter 12: Straight Teeth
 
 - Orthodontics.
 - Invisalign and clear aligners.
 - Retainers.
 - Bite correction.
 
-## Chapter 12: Veneers, Bonding, and Crowns
+## Chapter 13: Veneers, Bonding, and Crowns
 
 - What each is.
 - Why people get them.
@@ -155,7 +171,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Why sequencing matters: cosmetic work performs and lasts better on a mouth with no active decay and healthy gums.
 - Cosmetic dental tourism: what to expect, questions to ask, how to evaluate a clinic, what is better done locally vs. what may be reasonable abroad.
 
-## Chapter 13: Missing Teeth
+## Chapter 14: Missing Teeth
 
 - When missing teeth happen.
 - When to act and why.
@@ -169,7 +185,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part V: The Dentist
 
-## Chapter 14: Dental Visits
+## Chapter 15: Dental Visits
 
 - Why go at all: tartar removal, early recession, soft-tissue changes, decay under restorations.
 - How to find a good dentist.
@@ -186,7 +202,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Questions to ask.
 - When to go outside the 6-month schedule.
 
-## Chapter 15: Dental Emergencies
+## Chapter 16: Dental Emergencies
 
 - Broken tooth.
 - Lost filling.
@@ -203,7 +219,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part VI: Long-Term Planning
 
-## Chapter 16: Decades of Maintenance
+## Chapter 17: Decades of Maintenance
 
 - 20s.
 - 30s.
@@ -214,7 +230,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Menopause.
 - Medical conditions.
 
-## Chapter 17: Costs
+## Chapter 18: Costs
 
 - Maintenance vs. neglect.
 - Typical treatment costs in the United States.
