@@ -16,6 +16,7 @@
 ## Research Completed
 
 This pass created a manuscript scaffold and inserted qualified evidence positions based on the existing repository research framework. It is not a real Draft 1 yet. It did not complete full primary-source verification across all countries requested. Remaining verification is documented in `research/unresolved-evidence.md` and `reviews/source-needs.md`. The current workflow now uses `tasks/how-to-run-overnight-book-workflow.md`: expand for outline coverage and usefulness, with 25,000-45,000 words as a likely practical range rather than padding for length.
+This pass created a manuscript scaffold and inserted qualified evidence positions based on the existing repository research framework. It is not a real Draft 1 yet. It did not complete full primary-source verification across all countries requested. Remaining verification is documented in `research/unresolved-evidence.md` and `reviews/source-needs.md`. The next task must expand the chapter files to 40,000-60,000 total words and enforce the chapter word-count gate before calling the manuscript complete.
 
 ## Major Cross-National Disagreements To Preserve
 

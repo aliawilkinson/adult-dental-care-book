@@ -29,6 +29,10 @@ Target length:
 - Main chapters should generally be 1,200-2,800 words each.
 - Foreword, introduction, and quick reference may be shorter, but should still be useful.
 - No substantive chapter may remain under 1,000 words unless you explicitly justify why in `reviews/final-summary.md` and prove the outline bullets are covered.
+- Total chapter word count target: 40,000-60,000 words.
+- Main chapters should generally be 1,800-3,500 words each.
+- Foreword, introduction, and quick reference may be shorter, but should still be useful.
+- No substantive chapter may remain under 1,200 words unless you explicitly justify why in `reviews/final-summary.md`.
 
 Workflow:
 
@@ -49,6 +53,9 @@ Before stopping, run a word-count check across `chapters/*.md`.
 If total chapter word count is under 25,000 words, continue expanding unless `reviews/final-summary.md` proves the outline is fully covered without padding.
 
 If any main chapter is under 1,000 words, continue expanding or explain clearly in `reviews/final-summary.md` why it is intentionally short and complete.
+If total chapter word count is under 40,000 words, continue expanding.
+
+If any main chapter is under 1,200 words, continue expanding or explain clearly in `reviews/final-summary.md` why it is intentionally short.
 
 Then assemble `book/full-manuscript.md` from the chapter files.
 

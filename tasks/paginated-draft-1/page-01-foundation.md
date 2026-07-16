@@ -41,6 +41,7 @@ Target total for this page: 18,000-24,000 words.
 Minimum before stopping: 15,000 words across these files.
 
 No main chapter in this page should remain under 1,000 words unless `reviews/final-summary.md` explains why.
+No main chapter in this page should remain under 1,800 words unless `reviews/final-summary.md` explains why.
 
 ## Writing Priorities
 

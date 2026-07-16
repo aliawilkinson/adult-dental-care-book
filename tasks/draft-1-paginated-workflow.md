@@ -24,6 +24,10 @@ codex/overnight-draft-1
 
 The current controlling outline is `outline.md`. The page prompts should follow that outline, even if older prompt text uses previous chapter numbers.
 
+Run each page as a separate Codex cloud task or follow-up on the same branch. Do not merge to `main` until Page 4 is complete and reviewed.
+
+## Page Sequence
+
 1. `tasks/paginated-draft-1/page-01-foundation.md`
    - Foreword
    - Introduction
@@ -32,6 +36,7 @@ The current controlling outline is `outline.md`. The page prompts should follow 
    - Chapters 7-13
 3. `tasks/paginated-draft-1/page-03-dentist-long-term-reference.md`
    - Chapters 14-17
+   - Chapters 14-18
    - Quick Reference
    - Product Guide
    - FAQ
@@ -48,6 +53,7 @@ The current controlling outline is `outline.md`. The page prompts should follow 
 Run the overnight workflow first if you want a single long attempt. In the morning, inspect the output before launching a paginated follow-up.
 
 If a page is too thin, rerun that page with a stronger expansion instruction before moving on. Do not let Codex proceed just because files exist.
+Run Page 1 first. In the morning, inspect the output before launching Page 2. If Page 1 is too thin, rerun Page 1 with a stronger expansion instruction before moving on.
 
 ## Completion Standard
 
@@ -61,3 +67,8 @@ Draft 1 is not complete until:
 - the manuscript sounds like Alia, not a generic dental-office blog
 
 Use length as a guardrail, not a goal. Short is acceptable when complete. Generic and thin is not.
+- every outlined chapter has substantive prose
+- `book/full-manuscript.md` is assembled
+- each chapter has a word-count and readiness rating in `reviews/final-summary.md`
+- unresolved claims are marked rather than invented
+- the manuscript sounds like Alia, not a generic dental-office blog
