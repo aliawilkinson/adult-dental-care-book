@@ -1,0 +1,7 @@
+# Chapter 6: Fluoride, nHA, and Remineralization
+
+Fluoride is an ion of the element fluorine. In toothpaste, its main job is local: it helps enamel resist acid and supports remineralization of early mineral loss. Water fluoridation is different because it changes baseline community exposure. That is why benefits, ethics, dosage, dental fluorosis, and possible systemic-risk debates belong in the same conversation but should not be treated as identical to brushing with toothpaste and spitting it out.
+
+Nano-hydroxyapatite is a very small-particle form of the mineral family that resembles tooth mineral. Mechanistically, it is attractive because it may help fill microscopic surface defects, support remineralization, and reduce sensitivity by occluding dentin tubules. The strongest claims are not all equally strong. Remineralization and sensitivity evidence is more plausible and developed than claims that nHA is superior to fluoride for preventing real-world cavities. Noninferiority depends on concentration, formulation, study design, and endpoint.
+
+My practical Draft 1 position is nHA-forward but not anti-fluoride: a well-formulated nHA toothpaste is a reasonable adult choice, especially for people prioritizing remineralization and sensitivity, but fluoride toothpaste remains the better-established population-level caries-prevention standard in many guidelines. Do not turn either ingredient into a religion. Ask what outcome is being claimed.
