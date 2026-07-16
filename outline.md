@@ -4,15 +4,22 @@
 
 How to Keep Your Teeth Healthy for Life
 
-## Working Premise
+## Positioning Line
 
-Most adults were taught a kid-sized version of dental care: brush, floss, see the dentist. This book teaches the adult version: how teeth work, what damages them, how to maintain them, how to evaluate dental recommendations, and how to pursue cosmetic goals from a healthy foundation.
+Everything you wanted to know about keeping your teeth healthy and strong for life.
 
 ## Foreword
 
-- Personal origin: adult dental confusion, cavities, bad advice, insurance-list dentists, dental tourism research, veneer and crown pressure.
-- Why this matters: health, intimacy, beauty, longevity, pain avoidance, cost avoidance.
-- Promise: practical knowledge, agency, and a routine the author can return to as a reminder.
+- College magazine advice: brushing after coffee to prevent stains led to sensitivity and weakened enamel.
+- Insurance-list dentist experience: pressure toward silver fillings, cash copay oddness, and the problem of finding a dentist through insurance directories alone.
+- Cosmetic dentistry curiosity: veneers, crown pressure, dental tourism research, and misleading advice about retainers after veneers.
+- Why childhood dental advice is incomplete for adult life.
+- Why teeth matter: health, intimacy, beauty, longevity, pain avoidance, and cost avoidance.
+- Manual promise:
+  - Help readers keep natural teeth strong, healthy, and functional for life.
+  - Explain what damages teeth: plaque, acid, excessive force, delayed treatment.
+  - Show how to protect teeth: remove plaque, support remineralization, protect against wear, catch problems early.
+  - Demonstrate what success looks like: healthy gums, intact enamel, comfortable chewing, stable bite, mostly preventive dental visits.
 
 ## Introduction: Why This Book Exists
 
@@ -44,10 +51,10 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 ## Chapter 3: The Four Enemies
 
-- Plaque.
-- Acid.
-- Mechanical wear.
-- Delayed treatment.
+- Enemy #1: plaque.
+- Enemy #2: acid.
+- Enemy #3: mechanical wear.
+- Enemy #4: delayed treatment.
 - Visuals to consider later: plaque formation timeline, tooth wear progression.
 
 ---
@@ -68,33 +75,18 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 ## Chapter 5: Every Tool Explained
 
 - Electric toothbrush.
-- Copper tongue scraper.
+- Tongue scraper.
 - Floss.
 - Water flosser.
 - nHA toothpaste.
-- nHA mouthwash tablets.
-- Remineralization rinse/drops.
+- Mouthwash.
+- Remineralization rinse.
 - Night guard.
 - Brush heads.
-- For each: what it does, mechanism, why it matters, common mistakes, replacement schedule, product notes, HSA/FSA considerations where applicable.
+- For each: what it does, actual mechanism, why it matters, common mistakes, replacement schedule, product recommendation considerations, HSA/FSA considerations where applicable.
+- Include careful explanation of fluoride and nHA here or in a subsection: what fluoride is, why it is in toothpaste, what nHA is, how nHA differs mechanistically, what is well supported, what is emerging, and what remains unresolved.
 
-## Chapter 6: Fluoride, nHA, and Remineralization
-
-- What fluoride is.
-- Why fluoride is in toothpaste.
-- How fluoride helps teeth resist decay.
-- What water fluoridation is and why it became controversial.
-- What the strongest evidence says about fluoride benefits and risks.
-- How fluoride toothpaste differs from fluoridated water.
-- What nano-hydroxyapatite is.
-- How nHA is supposed to work.
-- How nHA compares with fluoride by outcome: remineralization, caries prevention, sensitivity, white-spot lesions, safety.
-- Whether nHA has the same concerns people raise about fluoride, and where those comparisons are fair or unfair.
-- International differences in fluoride, nHA, water fluoridation, product regulation, and professional guidance.
-- Happy-path conclusion: what the author uses and why, with honest notes on alternatives.
-- Required source files: `research/nano-hydroxyapatite-review.md`, `research/evidence-ledger.md`, `research/international-guideline-matrix.md`.
-
-## Chapter 7: Dental Nutrition
+## Chapter 6: Dental Nutrition
 
 - Core rule: pH and acid exposure frequency matter more than total amount.
 - Sugar frequency.
@@ -102,7 +94,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Coffee, tea, and wine: staining mechanisms vs. acid-softening mechanisms.
 - Alcohol.
 - Sports drinks.
-- Hydration and saliva.
+- Hydration and saliva as the baseline defense system, including a careful treatment of alkaline water claims.
 - Cigarettes, vapes, and weed: vasoconstriction, dry mouth, combustion irritation, and mitigation without lecturing.
 - Foods that support oral health: calcium/phosphate sources, fibrous foods, saliva-stimulating foods.
 
@@ -110,7 +102,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part III: Prevention
 
-## Chapter 8: Gum Health
+## Chapter 7: Gum Health
 
 - Healthy gums and what normal looks like.
 - Gingivitis.
@@ -119,7 +111,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Bleeding.
 - Recession.
 
-## Chapter 9: Cavities
+## Chapter 8: Cavities
 
 - How cavities start.
 - Early decay.
@@ -127,7 +119,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Fillings.
 - When decay becomes irreversible.
 
-## Chapter 10: Grinding and Bite
+## Chapter 9: Grinding and Bite
 
 - Bruxism.
 - TMJ.
@@ -140,7 +132,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part IV: Cosmetic Dentistry
 
-## Chapter 11: Whitening
+## Chapter 10: Whitening
 
 - How whitening works.
 - Carbamide peroxide 10% tray protocol: 7 nights on, then 1x/week maintenance.
@@ -149,14 +141,14 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Maintenance.
 - What will not whiten: existing restorations and certain stain types.
 
-## Chapter 12: Straight Teeth
+## Chapter 11: Straight Teeth
 
 - Orthodontics.
 - Invisalign and clear aligners.
 - Retainers.
 - Bite correction.
 
-## Chapter 13: Veneers, Bonding, and Crowns
+## Chapter 12: Veneers, Bonding, and Crowns
 
 - What each is.
 - Why people get them.
@@ -171,38 +163,40 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Why sequencing matters: cosmetic work performs and lasts better on a mouth with no active decay and healthy gums.
 - Cosmetic dental tourism: what to expect, questions to ask, how to evaluate a clinic, what is better done locally vs. what may be reasonable abroad.
 
-## Chapter 14: Missing Teeth
+## Chapter 13: Missing Teeth
 
 - When missing teeth happen.
 - When to act and why.
+- Pros and cons of each option.
+- What each procedure is like.
 - Implants.
 - Bridges.
 - Dentures.
 - Bone loss.
-- Pros and cons of each option.
 
 ---
 
 # Part V: The Dentist
 
-## Chapter 15: Dental Visits
+## Chapter 14: Dental Visits
 
 - Why go at all: tartar removal, early recession, soft-tissue changes, decay under restorations.
 - How to find a good dentist.
 - How to look up insurance.
 - How to make an appointment.
 - What happens at a visit and whether it will hurt.
-- Dental-mill red flags.
+- Dental-mill red flags, including discount-mill booking patterns and warning signs.
 - Cleanings.
 - Exams.
 - Bitewings.
 - Panoramic X-rays.
 - CBCT.
 - Second opinions.
+- Choosing a dentist.
 - Questions to ask.
-- When to go outside the 6-month schedule.
+- When to go outside the 6-month schedule: new lingering sensitivity, gum bleeding that does not resolve, visible chip/crack, persistent bad breath despite routine, any sore not healed in 2 weeks.
 
-## Chapter 16: Dental Emergencies
+## Chapter 15: Dental Emergencies
 
 - Broken tooth.
 - Lost filling.
@@ -219,7 +213,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 
 # Part VI: Long-Term Planning
 
-## Chapter 17: Decades of Maintenance
+## Chapter 16: Decades of Maintenance
 
 - 20s.
 - 30s.
@@ -230,7 +224,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Menopause.
 - Medical conditions.
 
-## Chapter 18: Costs
+## Chapter 17: Costs
 
 - Maintenance vs. neglect.
 - Typical treatment costs in the United States.
@@ -294,7 +288,7 @@ Most adults were taught a kid-sized version of dental care: brush, floss, see th
 - Can cavities heal?
 - Is nano-hydroxyapatite worth it?
 - Why do my gums bleed?
-- When do I see a dentist?
+- When do I see a dentist, and how do I stay on schedule?
 - What do I do if I move or my insurance changes?
 
 ## Appendix

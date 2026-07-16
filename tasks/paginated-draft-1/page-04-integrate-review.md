@@ -29,6 +29,7 @@ Read first:
 2. Expand any remaining skeletal chapter before assembly.
 3. Remove obvious repetition between chapters.
 4. Tighten generic or institutional prose.
+5. Check that Chapter 4 remains happy-path and that fluoride/nHA nuance lives in Chapter 5 or a clearly labeled tool/remineralization subsection, unless the outline changes again.
 5. Check that Chapter 4 remains happy-path and that fluoride/nHA nuance lives mainly in Chapter 6.
 6. Check citations and source flags for consequential claims.
 7. Assemble all chapter files into `book/full-manuscript.md`.
@@ -37,6 +38,11 @@ Read first:
 
 ## Draft 1 Length Target
 
+Likely total chapter word count: 25,000-45,000 words. This is a guardrail, not a padding target.
+
+If total chapter word count is under 25,000 words, continue expanding the weakest chapters unless `reviews/final-summary.md` proves the outline is fully covered without padding.
+
+If any main chapter is under 1,000 words, continue expanding it unless it is intentionally short and justified.
 Target total chapter word count: 40,000-60,000 words.
 
 Minimum before calling this a real Draft 1: 35,000 words, unless `reviews/final-summary.md` gives a persuasive reason.

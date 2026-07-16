@@ -29,6 +29,7 @@ Read first:
 - Chapter 15: Dental Visits
 - Chapter 16: Dental Emergencies
 - Chapter 17: Decades of Maintenance
+- Chapter 17: Costs
 - Chapter 18: Costs
 - Quick Reference
 - Product Guide
