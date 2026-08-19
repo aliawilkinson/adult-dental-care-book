@@ -30,3 +30,7 @@ Current version: `0.1.3`
 ## Working Rule
 
 Draft the book one chapter at a time, keep claims source-aware, compare international evidence and outcomes before making major recommendations, and preserve the author's direct, practical, non-institutional voice.
+
+## Development Branch Sync
+
+When `main` changes, `.github/workflows/sync-main-to-development-branches.yml` opens or refreshes reviewable sync pull requests for same-repository branches beginning with `claude/`, `codex/`, `dev/`, `feature/`, or `fix/` that have an open pull request into `main`. The workflow never merges directly into a development branch. Closed, merged, abandoned, and fork-based branches are ignored. Conflicts are reported for manual resolution.
