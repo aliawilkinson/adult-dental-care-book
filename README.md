@@ -33,4 +33,12 @@ Draft the book one chapter at a time, keep claims source-aware, compare internat
 
 ## Development Branch Sync
 
-When `main` changes, `.github/workflows/sync-main-to-development-branches.yml` opens or refreshes reviewable sync pull requests for same-repository branches beginning with `claude/`, `codex/`, `dev/`, `feature/`, or `fix/` that have an open pull request into `main`. The workflow never merges directly into a development branch. Closed, merged, abandoned, and fork-based branches are ignored. Conflicts are reported for manual resolution.
+When `main` changes, `.github/workflows/sync-main-to-development-branches.yml` calls the shared `aliawilkinson/.github` workflow to open or refresh reviewable sync pull requests for same-repository branches beginning with `claude/`, `codex/`, `dev/`, `feature/`, or `fix/` that have an open pull request into `main`. The workflow never merges directly into a development branch. Closed, merged, abandoned, and fork-based branches are ignored. Conflicts are reported for manual resolution.
+
+Claude and Codex should work on separate branches and open draft pull requests early. Once either agent's work reaches `main`, the sync workflow proposes it to every other active development branch.
+
+## Releases
+
+`.github/workflows/release.yml` uses the shared trunk-release workflows. Conventional Commit titles such as `fix:`, `feat:`, and `feat!:` maintain a reviewable Release Please pull request. Merging that release pull request updates `VERSION` and `CHANGELOG.md`, creates an immutable `vX.Y.Z` tag and GitHub Release, packages the tagged manuscript and source tree, generates SHA-256 checksums and provenance, and attaches the assets to the release.
+
+Deployment is intentionally project-specific. Any future deployment job should depend on the release job and consume its exact tag or SHA rather than rebuilding from a moving branch.

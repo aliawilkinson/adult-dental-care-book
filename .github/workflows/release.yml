@@ -1,0 +1,74 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  id-token: write
+  attestations: write
+
+jobs:
+  release:
+    uses: aliawilkinson/.github/.github/workflows/semver-release.yml@v1
+    with:
+      target_branch: main
+    secrets: inherit
+
+  package:
+    if: needs.release.outputs.release_created == 'true'
+    needs: release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the tagged source
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ needs.release.outputs.sha }}
+
+      - name: Package versioned book artifacts
+        env:
+          RELEASE_TAG: ${{ needs.release.outputs.tag_name }}
+        run: |
+          mkdir -p dist
+          cp book/full-manuscript.md "dist/the-adult-teeth-guide-${RELEASE_TAG}.md"
+          tar -czf "dist/adult-dental-care-book-source-${RELEASE_TAG}.tar.gz" \
+            AGENTS.md \
+            README.md \
+            VERSION \
+            CHANGELOG.md \
+            outline.md \
+            author-voice.md \
+            editorial-rules.md \
+            claims-policy.md \
+            international-research-standard.md \
+            book \
+            chapters \
+            cheat-sheets \
+            research \
+            reviews \
+            sources
+
+      - name: Upload release assets
+        uses: actions/upload-artifact@v7
+        with:
+          name: release-assets-${{ needs.release.outputs.version }}
+          path: dist/*
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    if: needs.release.outputs.release_created == 'true'
+    needs:
+      - release
+      - package
+    uses: aliawilkinson/.github/.github/workflows/publish-release-assets.yml@v1
+    with:
+      artifact_name: release-assets-${{ needs.release.outputs.version }}
+      tag_name: ${{ needs.release.outputs.tag_name }}
+      attest: true
+    secrets: inherit
