@@ -12,7 +12,7 @@ The finished book should sound like a polished, organized version of this author
 
 The voice is personal without becoming confessional, practical without becoming flat, and skeptical without becoming conspiratorial. It explains mechanisms because the reader deserves to know why. It is comfortable saying that a routine is not the cheap version, that adult habits are real, and that lecturing people is usually less effective than giving them usable mitigation steps.
 
-Use humor sparingly. The sharpness should help the reader feel awake, not shamed.
+Use humor generously and often, not just as an occasional garnish. The sharpness should help the reader feel awake and make the rule memorable, not shame them.
 
 ## Sample: Foreword Seed
 
