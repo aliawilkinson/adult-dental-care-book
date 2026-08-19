@@ -33,7 +33,7 @@ Draft the book one chapter at a time, keep claims source-aware, compare internat
 
 ## Development Branch Sync
 
-When `main` changes, `.github/workflows/sync-main-to-development-branches.yml` calls the shared `aliawilkinson/.github` workflow to open or refresh reviewable sync pull requests for same-repository branches beginning with `claude/`, `codex/`, `dev/`, `feature/`, or `fix/` that have an open pull request into `main`. The workflow never merges directly into a development branch. Closed, merged, abandoned, and fork-based branches are ignored. Conflicts are reported for manual resolution.
+When `main` changes, `.github/workflows/sync-main-to-development-branches.yml` calls the shared `aliawilkinson/.github` workflow to open or refresh reviewable sync pull requests for same-repository branches beginning with `agent/`, `claude/`, `codex/`, `dev/`, `feature/`, or `fix/` that have an open pull request into `main`. The workflow never merges directly into a development branch. Closed, merged, abandoned, and fork-based branches are ignored. Conflicts are reported for manual resolution.
 
 Claude and Codex should work on separate branches and open draft pull requests early. Once either agent's work reaches `main`, the sync workflow proposes it to every other active development branch.
 

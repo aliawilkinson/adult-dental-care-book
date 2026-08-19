@@ -15,5 +15,5 @@ jobs:
     uses: aliawilkinson/.github/.github/workflows/sync-development-branches.yml@v1
     with:
       base_branch: main
-      branch_prefixes: claude/,codex/,dev/,feature/,fix/
+      branch_prefixes: agent/,claude/,codex/,dev/,feature/,fix/
     secrets: inherit
