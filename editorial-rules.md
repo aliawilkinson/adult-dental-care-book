@@ -22,10 +22,11 @@ Do not shame the reader for delayed care, cosmetic goals, smoking, vaping, sugar
 - Make distinctions cleanly: stains vs. enamel damage, prevention vs. repair, reversible vs. irreversible, cosmetic preference vs. medical need.
 - Use bullets for routines, checklists, decision trees, tool lists, and quick reference sections.
 - Use prose for conceptual explanation.
-- Keep jokes dry and occasional.
+- Be funny and memorable throughout, not just in the foreword. Reach for a vivid image, a mnemonic, or a punchy line before settling for a flat one. Humor is a tool for retention, not decoration: a reader should be able to recall the rule because the line stuck, not because they reread it.
+- Favor stating what to do over stacking up what not to do. When a warning is genuinely necessary, give it once, plainly, and move on instead of repeating the negative framing across the same paragraph.
 - Avoid filler phrases like "it is important to note," "in today's world," "when it comes to," and "at the end of the day."
 - Avoid generic wellness language.
-- Avoid motivational-poster energy.
+- Avoid motivational-poster energy. Funny is fine. Inspirational-poster sincerity is not.
 - Avoid contrived case studies and fake patient stories.
 - Do not use em dashes.
 
