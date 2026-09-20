@@ -51,7 +51,8 @@ jobs:
             cheat-sheets \
             research \
             reviews \
-            sources
+            sources \
+            docs
 
       - name: Upload release assets
         uses: actions/upload-artifact@v7

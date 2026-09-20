@@ -42,3 +42,7 @@ Claude and Codex should work on separate branches and open draft pull requests e
 `.github/workflows/release.yml` uses the shared trunk-release workflows. Conventional Commit titles such as `fix:`, `feat:`, and `feat!:` maintain a reviewable Release Please pull request. Merging that release pull request updates `VERSION` and `CHANGELOG.md`, creates an immutable `vX.Y.Z` tag and GitHub Release, packages the tagged manuscript and source tree, generates SHA-256 checksums and provenance, and attaches the assets to the release.
 
 Deployment is intentionally project-specific. Any future deployment job should depend on the release job and consume its exact tag or SHA rather than rebuilding from a moving branch.
+
+## Durable project context
+
+Start with [who, what, when, where, why and how](docs/context.md), including setup, verification, release, operations and recovery. The dated record cites source evidence and marks unanswered questions explicitly.
