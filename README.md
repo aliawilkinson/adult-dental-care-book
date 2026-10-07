@@ -46,3 +46,7 @@ Deployment is intentionally project-specific. Any future deployment job should d
 ## Durable project context
 
 Start with [who, what, when, where, why and how](docs/context.md), including setup, verification, release, operations and recovery. The dated record cites source evidence and marks unanswered questions explicitly.
+
+## Architecture and operations record
+
+Use the [checkpoint checklist](docs/operating-record/checklist.md) for every milestone, before release, after actual release and at maintenance/handoff. The [architecture and diagrams](docs/operating-record/architecture.md), [operating procedures](docs/operating-record/operations.md), [recovery guide](docs/operating-record/recovery.md) and [dated backfill report](docs/operating-record/reports/2026-10-06-backfill-C0-C2.md) distinguish documented structure from verified operations and open gaps.
