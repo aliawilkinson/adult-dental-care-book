@@ -16,7 +16,7 @@ Source authority: [durable context](../context.md), [README](../../README.md), [
 ## Complete rebuild procedure
 
 1. Recovery owner obtains GitHub access via the approved account-recovery route. Confirm the repo URL and desired tag/SHA using retained release evidence.
-2. Clone into a new empty directory and verify `git rev-parse HEAD`. Inspect `VERSION`, `CHANGELOG.md`, chapter count and the manuscript path.
+2. Clone into a new empty directory. Resolve the retained tag/SHA with `git rev-parse --verify "<retained-tag-or-SHA>^{commit}"`, compare it with the full commit SHA in retained release evidence, then run `git checkout --detach <expected-full-SHA>`. Assert `test "$(git rev-parse HEAD)" = "<expected-full-SHA>"`; stop if resolution or comparison fails. Inspect `VERSION`, `CHANGELOG.md`, chapter count and the manuscript path only after this check passes.
 3. Restore independently held source assets and any uncommitted work from the approved backup into a separate staging directory; compare provenance and hashes before reconciling. This backup and custody are currently unknown.
 4. Reconstruct the manuscript from chapters and review documents following [operations](operations.md). Compare with retained release assets using SHA-256, then inspect intended rendering and source references.
 5. Recreate the packaging inputs from the exact tagged source and inspect archive membership locally. Resume a release only after the same publication gate as a normal release.
