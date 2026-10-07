@@ -29,3 +29,7 @@ The repo holds authored content and source/review notes, not customer dental rec
 At each chapter milestone, update source needs and the C2 report. Before release, review claim freshness, permissions, artifact contents and export accessibility. On GitHub/shared-workflow changes, recheck permissions, artifact retention and the packaging boundary. Costs may include Actions, editing, layout, art and distribution; plan, balances, amounts and renewals were not inspected. The owner records obligations and renewal reminders in MetadataDB when established. No scheduled review date or paid plan is invented here.
 
 For retirement, retain approved source, release hashes, corrections and permission records in an independently recoverable store, document where readers can obtain the final version, and transfer account custody before removing access.
+
+## Publishing and commercial preparation
+
+Follow the [project publishing guide](../publishing/README.md) to select a reviewable first offer and preparation milestone. The [dated platform reference](../publishing/platform-guide.md) supplies external channel guidance; recheck it and current official rules at C3. Keep channel fees/terms separate from project assumptions, record owner-selected price/budget/outcome thresholds, and preserve actual publication/delivery evidence only after a real release. This work prepares decisions and assets; account signup, outreach, payments and publication require their own authorized scope and the existing project approvals.

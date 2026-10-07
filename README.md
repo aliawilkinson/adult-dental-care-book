@@ -50,3 +50,7 @@ Start with [who, what, when, where, why and how](docs/context.md), including set
 ## Architecture and operations record
 
 Use the [checkpoint checklist](docs/operating-record/checklist.md) for every milestone, before release, after actual release and at maintenance/handoff. The [architecture and diagrams](docs/operating-record/architecture.md), [operating procedures](docs/operating-record/operations.md), [recovery guide](docs/operating-record/recovery.md) and [dated backfill report](docs/operating-record/reports/2026-10-06-backfill-C0-C2.md) distinguish documented structure from verified operations and open gaps.
+
+## Publishing and distribution
+
+The [publishing guide](docs/publishing/README.md) proposes a first offer, format/channel choices, monetization alternatives and the next reviewable milestone. Use its go/revise/hold worksheet and the linked dated platform guide before a release decision. Recommendations remain proposals until the owner records a choice.
