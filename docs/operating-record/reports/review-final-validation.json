@@ -1,0 +1,64 @@
+{
+  "files": 13,
+  "diagrams": 3,
+  "links": 75,
+  "failures": [],
+  "status": "passed",
+  "checkedAt": "2026-10-07T06:04:05.835127+00:00",
+  "sourceParent": "3e76982a9d5f452a68496b5fe3ab01a5cadbbbd2",
+  "scope": "Final operating-record and publishing Markdown, adopted standard and checker setup. Simple inline relative-file existence and Mermaid syntax; excludes external URLs, anchors, rendering and source/content validity.",
+  "command": "npm --silent --prefix tools/docs-validation run check",
+  "toolSource": "tools/docs-validation/check.mjs",
+  "tools": {
+    "node": "v26.10.0",
+    "mermaid": "11.17.2",
+    "jsdom": "26.1.0"
+  },
+  "filesSha256": {
+    "docs/operating-record/architecture.md": "b300a80a81b23dc756185eac8926508e2661975bc49dfb3088dfe20793ef2887",
+    "docs/operating-record/checklist.md": "04a2245629fa5c15bd3724b02f8ec4fc7d22f276669a02b6a50120894f6aa7a3",
+    "docs/operating-record/operations.md": "42cf176dafe0713fa903058e2ec52f0dd8579d101fecdbdb05736bde9df80a81",
+    "docs/operating-record/recovery.md": "251d17983ce63259acd04f6c06a2bfb035490ac3e370c01f976bb22fe2ad5f80",
+    "docs/operating-record/reports/2026-10-06-backfill-C0-C2.md": "f46c1b6963bfdd3ee5cb32b60bf86162bc733b2f45318fd4c5f396c0a3b0fb27",
+    "docs/operating-record/reports/2026-10-06-dependency-maintenance-C2-C5.md": "c8a4ce3d884735786319adec46dfe49f6e8448983e8988f94e851213d6b86831",
+    "docs/operating-record/reports/2026-10-06-publishing-guide-C0-C1.md": "291793e22c79a776bdbc18671ee0616165b0c310f70b6b8bb4ee310d7ccdbcf4",
+    "docs/operating-record/reports/2026-10-07-review-follow-up-C2-C5.md": "040f6a19c7eee553588859394ec7048d6e85d94b9138fc437c758db67718995f",
+    "docs/operating-record/reports/TEMPLATE.md": "70b058dba12d48617751391f6c241e6de09b116d33f2db5c75ce4a9d9622b727",
+    "docs/product-operating-record-standard.md": "33206f0b3e613aacf93b42648f4bf33863efba634400a6562245e0d38d27618b",
+    "docs/publishing/README.md": "57fd45095b282ea593e244a36ba0ef7d04f250334199409717f1d2426e7dbeba",
+    "docs/publishing/platform-guide.md": "471f4318ae2597819034c900ee2250d9bfac840fda451d5a4cc52cde2a4383b0",
+    "tools/docs-validation/README.md": "3ab241393d3dab8452eb741424b5f82f8446d0319668e0f148362e0846dc0a26"
+  },
+  "checkerTests": {
+    "passed": 3,
+    "failed": 0
+  },
+  "dependencyAudit": {
+    "counts": {
+      "info": 0,
+      "low": 2,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 2
+    },
+    "advisory": "GHSA-238p-pmpm-9mq7",
+    "disposition": "low-only rendering prerequisite absent in parser-only development tool; retain upstream range and re-audit on tooling change"
+  },
+  "dependabot": {
+    "status": "passed",
+    "parser": "Ruby 4.0.7, Psych 5.3.1",
+    "coveredRoots": [
+      [
+        "github-actions",
+        "/"
+      ],
+      [
+        "npm",
+        "/tools/docs-validation"
+      ]
+    ],
+    "manifestLockMatch": true,
+    "developmentOnly": true
+  }
+}
