@@ -18,6 +18,10 @@ Ruby 4.0.7; Psych 5.3.1 parsed the config and all 2 workflow YAML files. Semanti
 
 [GitHub's Actions update guidance](https://docs.github.com/en/code-security/how-tos/secure-your-supply-chain/secure-your-dependencies/auto-update-actions) covers referenced actions and reusable workflows. Its [configuration reference](https://docs.github.com/en/code-security/reference/supply-chain-security/dependabot-options-reference) requires the `/` directory for Actions and supports weekly schedules. Configuration validation is local; actual Dependabot activation/update success after merge requires GitHub's update logs. Upstream shared-workflow internals remain maintained in their owning repository.
 
+## GitHub settings observation
+
+A read-only `GET repos/aliawilkinson/adult-dental-care-book/automated-security-fixes` at `2026-10-07T03:33:19.365684+00:00` returned `enabled: false`, `paused: false`. No repository setting was changed. This observation is separate from the proposed weekly version-update configuration; these Actions-only repositories have no package manifest from which to claim package security-update coverage. Actual post-merge scan success remains unverified.
+
 ## Maintenance and signoff
 
 On adding a workflow, package manager or build/export dependency, repeat this inventory and add the correct ecosystem at each real manifest root. Keep runtime/toolchain maintenance separate when no supported manifest exists. Review proposed dependency changes through the usual branch/PR and applicable content/release checks; this milestone performs no dependency upgrade, automatic merge, release or publication.
