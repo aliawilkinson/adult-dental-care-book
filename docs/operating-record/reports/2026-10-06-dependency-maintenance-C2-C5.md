@@ -20,10 +20,12 @@ Ruby 4.0.7; Psych 5.3.1 parsed the config and all 2 workflow YAML files. Semanti
 
 ## GitHub settings observation
 
-A read-only `GET repos/aliawilkinson/adult-dental-care-book/automated-security-fixes` at `2026-10-07T03:33:19.365684+00:00` returned `enabled: false`, `paused: false`. No repository setting was changed. This observation is separate from the proposed weekly version-update configuration; these Actions-only repositories have no package manifest from which to claim package security-update coverage. Actual post-merge scan success remains unverified.
+A read-only `GET repos/aliawilkinson/adult-dental-care-book/automated-security-fixes` at `2026-10-07T03:33:19.365684+00:00` returned `enabled: false`, `paused: false`. That was the initial observation; the read-only audit call made no mutation. This observation is separate from the proposed weekly version-update configuration; these Actions-only repositories have no package manifest from which to claim package security-update coverage. Actual post-merge scan success remains unverified.
+
+The portfolio coordinator subsequently enabled vulnerability alerts and automated security-fix PRs under the user's requested coverage task. Verification at `2026-10-07T03:34:15.770158+00:00` returned alerts enabled (HTTP 204) and security updates `enabled: true`, `paused: false`. Automatic merge and branch rules were not changed. This is repository-setting evidence, not a completed update scan or package-security coverage claim. The portfolio-wide record is maintained in [MetadataDB's dependency coverage report](https://github.com/aliawilkinson/metadataDB/blob/main/docs/dependabot-coverage-2026-10-07.md), available when that reviewed documentation lands.
 
 ## Maintenance and signoff
 
 On adding a workflow, package manager or build/export dependency, repeat this inventory and add the correct ecosystem at each real manifest root. Keep runtime/toolchain maintenance separate when no supported manifest exists. Review proposed dependency changes through the usual branch/PR and applicable content/release checks; this milestone performs no dependency upgrade, automatic merge, release or publication.
 
-Signoff: **ship the scoped configuration/audit for review**. Applicable config becomes effective through the normal default-branch merge; post-merge scan success is **unverified**. For N/A scopes, the trigger for another review is a new supported manifest, external install or workflow. No provider setting, credentials, manuscript or application source changed.
+Signoff: **ship the scoped configuration/audit for review**. Applicable config becomes effective through the normal default-branch merge; post-merge scan success is **unverified**. For N/A scopes, the trigger for another review is a new supported manifest, external install or workflow. No credentials, manuscript, application source, dependency versions or merge policies changed in this source milestone.
