@@ -1,9 +1,7 @@
 name: Release
 
+# Source releases are requested explicitly; dependency merges do not publish.
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
